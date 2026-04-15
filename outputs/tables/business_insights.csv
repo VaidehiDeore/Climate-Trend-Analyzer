@@ -1,0 +1,6 @@
+insight
+Average yearly temperature increased by 0.37 units from the first year to the last year.
+Total yearly precipitation decreased by 188.46 units from the first year to the last year.
+The project detected 3 temperature anomaly event(s) using z-score based detection.
+The hottest year in the dataset is 2019 with an average temperature of 24.53.
+The wettest year in the dataset is 2013 with total precipitation of 1754.61.
