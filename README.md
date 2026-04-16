@@ -107,28 +107,31 @@ This project uses a virtual simulation approach to replicate real-world climate 
 
 ### 🌍 Dashboard Overview
 
-![Dashboard](images/01_dashboard_overview.png)
-
-### 📈 Temperature Trend
-
-![Temperature](images/02_temperature_trend.png)
-
-### 🌧 Rainfall Trend
-
-![Rainfall](images/03_rainfall_trend.png)
-
-### 📊 Monthly Pattern
-
-![Monthly](images/04_monthly_pattern.png)
-
-### 🚨 Anomaly Detection
-
-![Anomalies](images/05_anomalies.png)
+![Dashboard](images/1_dashboard_overview.png)
 
 ### 📄 Dataset Preview
 
-![Dataset](images/06_dataset_preview.png)
+![Temperature](images/2_dataset_preview.png)
 
+### 📈 Temperature Trend
+
+![Rainfall](images/3_temperature_trend.png)
+
+### 🌧 Rainfall Trend
+
+![Monthly](images/4_rainfall_trend.png)
+
+### 📊 Monthly Pattern
+
+![Anomalies](images/5_monthly_pattern.png)
+
+### 🚨 Anomalies
+
+![Dataset](images/6_anomalies.png)
+
+### Saved Charts
+
+![Dataset](images/7_saved_charts.png)
 ---
 
 ## 🚀 Future Improvements
